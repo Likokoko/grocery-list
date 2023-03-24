@@ -22,10 +22,10 @@
 
 
 # Future Improvements
-1.Implement a search bar to search for items in the list
+ 1.Implement a search bar to search for items in the list
 
-2. Add categories or tags to group items in the list
+ 2.Add categories or tags to group items in the list
 
-3.Implement a feature to cross off or mark items as purchased
+ 3.Implement a feature to cross off or mark items as purchased
 
-4. Improve the user interface with a more attractive and intuitive design.
+ 4.Improve the user interface with a more attractive and intuitive design.
