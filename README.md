@@ -11,9 +11,13 @@
 # Skills Used
 
   1.React for building the application
+  
   2.useState hook for managing state in functional components
+  
   3.useEffect hook for persisting the grocery list in local storage
+  
   4.Conditional rendering for displaying alerts and list items
+  
   5.Props for passing data and functions between components
 
 
