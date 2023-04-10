@@ -1,5 +1,5 @@
 
-# [Grocery List](https://github.com/Likokoko/Grocery-list.git)
+# [Grocery List](https://grocery-list-flame.vercel.app/)
  * The app allows users to add items to a grocery list, edit or remove them, and clear the list. The application was built using React.
 
 # Features
