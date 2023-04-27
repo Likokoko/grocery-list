@@ -2,6 +2,11 @@
 # [Grocery List](https://grocery-list-flame.vercel.app/)
  * The app allows users to add items to a grocery list, edit or remove them, and clear the list. The application was built using React.
 
+## How to start
+- download the repo
+- npm install
+- npm start
+
 # Features
   * Add items to a grocery list
   * Edit or remove items from the list
